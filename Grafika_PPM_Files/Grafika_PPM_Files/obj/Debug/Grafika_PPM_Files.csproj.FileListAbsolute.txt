@@ -1,0 +1,15 @@
+C:\Users\Mateusz\source\repos\Grafika_PPM_Files\Grafika_PPM_Files\bin\Debug\Grafika_PPM_Files.exe.config
+C:\Users\Mateusz\source\repos\Grafika_PPM_Files\Grafika_PPM_Files\bin\Debug\Grafika_PPM_Files.exe
+C:\Users\Mateusz\source\repos\Grafika_PPM_Files\Grafika_PPM_Files\bin\Debug\Grafika_PPM_Files.pdb
+C:\Users\Mateusz\source\repos\Grafika_PPM_Files\Grafika_PPM_Files\obj\Debug\Grafika_PPM_Files.csprojAssemblyReference.cache
+C:\Users\Mateusz\source\repos\Grafika_PPM_Files\Grafika_PPM_Files\obj\Debug\MainWindow.g.cs
+C:\Users\Mateusz\source\repos\Grafika_PPM_Files\Grafika_PPM_Files\obj\Debug\App.g.cs
+C:\Users\Mateusz\source\repos\Grafika_PPM_Files\Grafika_PPM_Files\obj\Debug\Grafika_PPM_Files_MarkupCompile.cache
+C:\Users\Mateusz\source\repos\Grafika_PPM_Files\Grafika_PPM_Files\obj\Debug\Grafika_PPM_Files_MarkupCompile.lref
+C:\Users\Mateusz\source\repos\Grafika_PPM_Files\Grafika_PPM_Files\obj\Debug\MainWindow.baml
+C:\Users\Mateusz\source\repos\Grafika_PPM_Files\Grafika_PPM_Files\obj\Debug\Grafika_PPM_Files.g.resources
+C:\Users\Mateusz\source\repos\Grafika_PPM_Files\Grafika_PPM_Files\obj\Debug\Grafika_PPM_Files.Properties.Resources.resources
+C:\Users\Mateusz\source\repos\Grafika_PPM_Files\Grafika_PPM_Files\obj\Debug\Grafika_PPM_Files.csproj.GenerateResource.cache
+C:\Users\Mateusz\source\repos\Grafika_PPM_Files\Grafika_PPM_Files\obj\Debug\Grafika_PPM_Files.csproj.CoreCompileInputs.cache
+C:\Users\Mateusz\source\repos\Grafika_PPM_Files\Grafika_PPM_Files\obj\Debug\Grafika_PPM_Files.exe
+C:\Users\Mateusz\source\repos\Grafika_PPM_Files\Grafika_PPM_Files\obj\Debug\Grafika_PPM_Files.pdb
